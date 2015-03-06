@@ -1,0 +1,1 @@
+Hello, this is chapter 6 of the Real Python Course.
